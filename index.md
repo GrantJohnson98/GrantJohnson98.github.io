@@ -1,5 +1,5 @@
 ## Welcome to Grant Johnson's Website
-{% include nav.html %}
+
 
 You can use the [editor on GitHub](https://github.com/GrantJohnson98/GrantJohnson98.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
